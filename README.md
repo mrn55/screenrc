@@ -1,0 +1,2 @@
+# screenrc
+my screenrc preferences 
